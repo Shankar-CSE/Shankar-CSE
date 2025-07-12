@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514389/4753/sunglasses_rock.gif?1643514389" width="30"/>
   Hi there, I'm <span style="color: #4F46E5; text-shadow: 1px 1px 2px #A5B4FC">Shankar L</span> 
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514520/6003/meow_attention.png?1643514520" width="30"/>
 </h1>
 
 <h3 align="center">
@@ -92,10 +91,6 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github.com/shankar-cse/shankar-cse/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quote"/>
