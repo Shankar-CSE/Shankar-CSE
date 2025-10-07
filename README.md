@@ -33,15 +33,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
 ### 🌐 Web Development
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -50,17 +46,23 @@
 ### 🗃️ Backend & Databases
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-F05032?style=for-the-badge&logo=Mysql&logoColor=white"/>
 </div>
 
-### 🛠️ DevOps & Tools
+### DevOps 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+
+### Tools 
+<div align="center">
+  <img src="https://img.shields.io/badge/Vscode-2496ED?style=for-the-badge&logo=vscode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android studio-47A248?style=for-the-badge&logo=Androidstudio&logoColor=white"/>
+  
+</div>
+
 
 ---
 
@@ -90,11 +92,11 @@
 
 ## 🚀 Featured Projects
 <div align="center">
-  <a href="https://github.com/Shankar-CSE/self_verse">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shankar-cse&repo=self_verse&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+  <a href="https://github.com/Shankar-CSE/Rest_API_Tester">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shankar-cse&repo=Rest_API_Tester&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
   </a>
-  <a href="https://github.com/Shankar-CSE/AI_Chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shankar-cse&repo=AI_Chat&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
+  <a href="https://github.com/Shankar-CSE/Industrial-Waste-Compliance-Detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shankar-cse&repo=Industrial-Waste-Compliance-Detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
   </a>
 </div>
 
@@ -115,7 +117,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/ShankarL5252" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:shankar.l5252@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
