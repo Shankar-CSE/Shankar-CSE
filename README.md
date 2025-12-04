@@ -1,13 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.  I'm  Shankar L <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/>
 
 
-<p>Welcome to my page! </br> I'm Shankar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b>BE.CSE</b>. </p>
-<h3>Things I code with</h3>
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<p> Welcome to my page! 
+</br>
+I'm Shankar, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <b> Tamil Nadu, India </b>, 
+currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b> BE.CSE< /b>. </p>
+
+
+<h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/></h3>
+
+<p>	 
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -20,6 +25,14 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img alt="MYSQL" src="https://img.shields.io/badge/Mysql-F05032?style=flat-square&logo=Mysql&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-2088FF?style=flat-square&logo=github&logoColor=white"/>
+  <img alt="VScode" src="https://img.shields.io/badge/Vscode-2496ED?style=flat-square&logo=vscode&logoColor=white"/>
+  <img alt="AndroidStudio" src="https://img.shields.io/badge/Android studio-47A248?style=flat-square&logo=Androidstudio&logoColor=white"/>
+
 </p>
 
 
@@ -98,43 +111,6 @@
   </a>
 </p>
 
----
-
-## 🚀 Technical Expertise
-
-### 📱 Mobile Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</div>
-
-### 🌐 Web Development
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</div>
-
-### 🗃️ Backend & Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-F05032?style=for-the-badge&logo=Mysql&logoColor=white"/>
-</div>
-
-### DevOps 
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-2088FF?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
-
-### Tools 
-<div align="center">
-  <img src="https://img.shields.io/badge/Vscode-2496ED?style=for-the-badge&logo=vscode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android studio-47A248?style=for-the-badge&logo=Androidstudio&logoColor=white"/>
-  
-</div>
 
 
 ---
@@ -197,9 +173,9 @@
 
 
 <h3>Where to find me</h3>
-<p>
+<p align="center">
   <a href="https://github.com/shankar-cse" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://x.com/ShankarL5252" target="_blank"><img alt="X.com" src="https://img.shields.io/badge/X.com-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
   <a href="https://linkedin.com/in/shankarl5252" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/ShankarL5252" target="_blank"><img alt="X.com" src="https://img.shields.io/badge/X.com-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
   <a href="mailto:shankar.l5252@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
