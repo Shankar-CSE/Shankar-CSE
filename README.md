@@ -106,12 +106,19 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
   <a href="https://github.com/shankar-cse?tab=repositories">
     <img src="https://custom-icon-badges.demolab.com/badge/-Projects-6E40C9?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
-  <a href="https://github.com/shankar-cse?tab=followers">
-    <img src="https://img.shields.io/github/followers/shankar-cse?label=Followers&color=06B6D4&style=for-the-badge&logo=github" alt="GitHub Followers" />
+	<br />
+  <a>
+   <img alt="followers" src="https://img.shields.io/github/followers/shankar-cse?label=follow&style=social"/>  
   </a>
-  <a href="https://github.com/shankar-cse">
-    <img src="https://komarev.com/ghpvc/?username=shankar-cse&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-  </a>
+	<br />
+
+<a>
+  <img 
+    src="https://komarev.com/ghpvc/?username=shankar-cse&label=Profile%20Views&color=blue&style=flat" 
+    alt="Profile views" 
+  />
+</a>
+
 </p>
 
 
@@ -141,6 +148,18 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
   />
 
 </div>
+
+
+
+
+<div align="center">
+  <img 
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankar-cse&theme=github_dark&background=0D1117"
+    width="600px"
+  />
+</div>
+
+
 
 
 
@@ -196,3 +215,7 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
   <a href="https://x.com/ShankarL5252" target="_blank"><img alt="X.com" src="https://img.shields.io/badge/X.com-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
   <a href="mailto:shankar.l5252@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+
+
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
