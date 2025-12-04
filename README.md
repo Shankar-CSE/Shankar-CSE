@@ -10,8 +10,8 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/></h3>
-
-<p>	 
+<br />
+<p align="center">	 
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -90,14 +90,17 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&weight=500&letterSpacing=&pause=2000&color=F76533&center=true&vCenter=true&width=500&lines=Quick+thoughts+shape+fresh+ideas;Brave+steps+build+bigger+dreams;A+coder+who+learns+fast" alt="Typing SVG" />
+  </a>
+</div>
 
 
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Flutter+Architect;Open-Source+Contributor;Problem+Solver;Tech+Evangelist" alt="Typing SVG" />
-</h3>
 
----
+
+
 
 <p align="center">
   <a href="https://github.com/shankar-cse?tab=repositories">
@@ -113,22 +116,36 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
----
+
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shankar-cse&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-</div>
+</div> -->
+
+
+
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-cse&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  
+  <img  
+    width="450px"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-cse&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
+  />
+
+  <img 
+    width="450px"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0D1117&border_radius=10&title_color=ffffff&icon_color=76e7b9&count_color=ffffff"
+  />
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&width=650&lines=Building+scalable+solutions+with+clean+architecture;Turning+complex+problems+into+elegant+code;Continuous+learner+and+knowledge+sharer" alt="Typing SVG"/>
-</div>
+
+
+
+
 
 ---
 
