@@ -3,7 +3,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/>
 
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b>BE.CSE</b>. </p>
+<p>Welcome to my page! </br> I'm Shankar, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <b>Tamil Nadu, India</b>, currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b>BE.CSE</b>. </p>
 <h3>Things I code with</h3>
 
 <p>
