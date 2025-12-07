@@ -1,10 +1,26 @@
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.  I'm  Shankar L <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h3>
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.  I'm  Shankar L <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h3>
 
 
 <p> Welcome to my page! 
 </br>
 I'm Shankar, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <b> Tamil Nadu, India </b>, 
 currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b> BE.CSE</b>. </p>
+<p align="center">
+ 
+
+  <a>
+   <img alt="followers" src="https://img.shields.io/github/followers/shankar-cse?label=follow&style=social"/>  
+  </a>
+	
+
+<a>
+  <img 
+    src="https://komarev.com/ghpvc/?username=shankar-cse&label=Profile%20Views&color=blue&style=flat" 
+    alt="Profile views" 
+  />
+</a>
+
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
@@ -13,7 +29,7 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/></h3>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 <br />
 <p align="center">	 
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -41,54 +57,6 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
-<!-- <h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table> -->
-
-
-
-
-
-
-
-
-<!--
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
-<h3>Where to find me</h3>
--->
 
 
 
@@ -100,32 +68,21 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
   </a>
 </div>
 
+<!--
+## 📌 Highlighted Repos
+
+| Description                                                              | Repository                                                                | Website                                                                           |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![](/assets/img/git-repository-line.svg) Showcase                        | [repository](https://github.com/asudbury/showcase)                        | <https://asudbury.github.io/showcase>                                               |
+| ![](/assets/img/git-repository-line.svg) Mac OS react                    | [repository](https://github.com/asudbury/macOS-react)                        | <https://asudbury.github.io/macOS-react>                                               |
+| ![](/assets/img/git-repository-line.svg) NextJS Material Dashboard       | [repository](https://github.com/asudbury/nextjs-material-dashboard)       | <https://nextjs-material-dashboard-two.vercel.app>                                  |
+
+
+-->
 
 
 
-
-
-
-<p align="center">
-  <a href="https://github.com/shankar-cse?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Projects-6E40C9?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-	<br />
-  <a>
-   <img alt="followers" src="https://img.shields.io/github/followers/shankar-cse?label=follow&style=social"/>  
-  </a>
-	<br />
-
-<a>
-  <img 
-    src="https://komarev.com/ghpvc/?username=shankar-cse&label=Profile%20Views&color=blue&style=flat" 
-    alt="Profile views" 
-  />
-</a>
-
-</p>
-
-
+![trophy](https://github-profile-trophy.vercel.app/?username=shankar-cse&theme=onedark&row=1&column=9&margin-w=15&margin-h=15&no-bg=true)
 
 
 
@@ -140,27 +97,26 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
-<div align="center">
-  
+<p align="center">
+  <a>
   <img  
-    width="450px"
+ height="180em"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-cse&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
   />
 
-  <img 
-    width="450px"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0D1117&border_radius=10&title_color=ffffff&icon_color=76e7b9&count_color=ffffff"
-  />
-
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0D1117&border_radius=10&title_color=ffffff&icon_color=76e7b9&count_color=ffffff"/>
+</a>
+</p>
 
 
 
 
 <div align="center">
+	 <img height="180em" width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img 
+	  height="180em"
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankar-cse&theme=github_dark&background=0D1117"
-    width="600px"
+    width=""
   />
 </div>
 
