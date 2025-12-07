@@ -1,15 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.  I'm  Shankar L <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-
-
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.  I'm  Shankar L <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h3>
 
 
 <p> Welcome to my page! 
 </br>
 I'm Shankar, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <b> Tamil Nadu, India </b>, 
-currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b> BE.CSE< /b>. </p>
+currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b> BE.CSE</b>. </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
+
+<p align="center"><img src="https://github.com/AdityaKumar28/AdityaKumar28/blob/master/animation.gif?raw=true" width="500" alt="animation.gif"></p>
 
 
 <h3>Things I code with <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/></h3>
+
 <br />
 <p align="center">	 
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -125,7 +129,8 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
 
 <!-- <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=shankar-cse&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
@@ -165,36 +170,11 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
----
-
-## 🏆 GitHub Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shankar-cse&theme=radical&no-frame=true&row=1&column=7&margin-w=10&margin-h=10"/>
-</div>
 
----
 
-## 🚀 Featured Projects
-<div align="center">
-  <a href="https://github.com/Shankar-CSE/Rest_API_Tester">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shankar-cse&repo=Rest_API_Tester&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-  </a>
-  <a href="https://github.com/Shankar-CSE/Industrial-Waste-Compliance-Detector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shankar-cse&repo=Industrial-Waste-Compliance-Detector&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
-  </a>
-</div>
-
----
-
-## 🌱 Current Focus
-- 🔭 Working on **Next-Gen Flutter Architecture**
-- 🌱 Exploring **Rust & WebAssembly**
-- 👯 Collaborating on **Open Source Projects**
-- 💬 Ask me about **Flutter, React, or System Design**
-- ⚡ Fun fact: **Can solve a Rubik's Cube in under 2 minutes**
-
----
 
 
 
@@ -204,6 +184,7 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
 
 
@@ -215,6 +196,8 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
   <a href="https://x.com/ShankarL5252" target="_blank"><img alt="X.com" src="https://img.shields.io/badge/X.com-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
   <a href="mailto:shankar.l5252@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
 
 
