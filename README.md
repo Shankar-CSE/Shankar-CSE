@@ -1,10 +1,16 @@
-<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.  I'm  Shankar L <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h3>
+<h3 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h3>
+
+<p align="center"> 
+ ✨<br>𝑻𝒉𝒆 𝒓𝒐𝒂𝒅 𝒕𝒐 𝒘𝒊𝒔𝒅𝒐𝒎? - 𝑾𝒆𝒍𝒍, 𝒊𝒕'𝒔 𝒑𝒍𝒂𝒊𝒏 𝒂𝒏𝒅 𝒔𝒊𝒎𝒑𝒍𝒆 𝒕𝒐 𝒆𝒙𝒑𝒓𝒆𝒔𝒔: 𝑬𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒈𝒂𝒊𝒏 𝒃𝒖𝒕 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔.<br>🖥️
+</p>
+
 
 
 <p> Welcome to my page! 
 </br>
 I'm Shankar, Fullstack developer from  <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <b> Tamil Nadu, India </b>, 
-currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b> BE.CSE</b>. </p>
+currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b> BE.CSE</b>. 
+</p>
 <p align="center">
  
 
@@ -82,8 +88,10 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=shankar-cse&theme=onedark&row=1&column=9&margin-w=15&margin-h=15&no-bg=true)
 
+
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=shankar-cse&theme=onedark&row=1&column=9&margin-w=15&margin-h=15&no-bg=true" /> -->
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
@@ -97,28 +105,54 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 
 
-<p align="center">
-  <a>
-  <img  
- height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-cse&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"
-  />
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+	<a href="https://github.com/shankar-cse"><img alt="Candida's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shankar-cse&custom_title=Shankar's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0D1117&border_radius=10&title_color=ffffff&icon_color=76e7b9&count_color=ffffff"/>
+</details>
+
+<details>
+  <summary><b>⚡ Current Streak</b></summary>
+  <br/>
+	<p align="center">
+	 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-cse&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+	</p>
+  <br/>
+
+</details>
+
+
+<details>
+  <summary><b>⚡ Languages Used</b></summary>
+  <br/>
+	<p align="center">
+	 <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=0D1117&border_radius=10&title_color=ffffff&icon_color=76e7b9&count_color=ffffff"/>
+	</p>
+  <br/>
+
+</details>
+
+
+<details>
+  <summary><b>⚡ My gitHub Stats </b></summary>
+  <br/>
+	<p align="center">
+  <a>
+   <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
 </a>
 </p>
 
+  <br/>
+
+</details>
 
 
 
-<div align="center">
-	 <img height="180em" width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img 
-	  height="180em"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shankar-cse&theme=github_dark&background=0D1117"
-    width=""
-  />
-</div>
+
+
 
 
 
@@ -128,33 +162,48 @@ currently Studying  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
-<div align="center">
 
 
 
 
 
+
+<br>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
+ <img src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" alt="quote-snippet"/>
 </p>
 
 
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 
 
 
 
-<h3>Where to find me</h3>
+
+
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+
+
+<h3 align="center">connect with me</h3>
+
 <p align="center">
-  <a href="https://github.com/shankar-cse" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/shankarl5252" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/ShankarL5252" target="_blank"><img alt="X.com" src="https://img.shields.io/badge/X.com-%2312100E.svg?&style=for-the-badge&logo=X&logoColor=white" /></a> 
-  <a href="mailto:shankar.l5252@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:shankar.l5252@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/shanakr-cse"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/shankarl5252"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<!-- <a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a> -->
+	<a href="https://instagram.com/shankar_l5252"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<!-- <a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
-
 
 
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
