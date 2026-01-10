@@ -92,30 +92,44 @@
 <!-- ========================= GITHUB STATS ========================= -->
 
 ### ⚡ GitHub Activity & Stats
-<div>
-<details align="center">
-  <summary><b>📈 Contribution Graph</b></summary>
-  <br/>
+<div align="center">
+<table >
+ <tr>
+ <td>
+  <div align="center">
+  <b>📈 Contribution Graph</b>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankar-cse&theme=react-dark"/>
-</details>
-
+</div>
+  </td>
+</tr>
+ <tr>
+ <td>
 <details align="center">
   <summary><b>🔥 Current Streak</b></summary>
   <br/>
   <img width="1000px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shankar-cse&theme=github_dark"/>
 </details>
-
+</td>
+</tr>
+  <tr>
+ <td>
 <details align="center">
   <summary><b>🏆 GitHub Trophies</b></summary>
   <br/>
   <img width="1000px" height="800px" src="https://nirzak-trophies.vercel.app/?username=shankar-cse&theme=algolia"/>
 </details>
-
+</td>
+</tr>
+   <tr>
+ <td>
 <details align="center">
   <summary><b>📊 Overall GitHub Stats</b></summary>
   <br/>
   <img width="1000px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia"/>
 </details>
+   </td>
+</tr>
+</table>
 </div>
 <!-- ========================= EXTRA VISUALS ========================= -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
