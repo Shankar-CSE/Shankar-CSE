@@ -78,7 +78,7 @@ currently studying <img src="https://cdn-icons-png.flaticon.com/128/16531/165318
 <details>
   <summary><b>Click to expand</b></summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=shankar-cse&theme=onedark&row=1&column=9&margin-w=15&margin-h=15&no-bg=true"/>
+  <img src="https://nirzak-trophies.vercel.app/?username=shankar-cse&theme=algolia"/>
 </details>
 
 ### ⚡ Current Streak
