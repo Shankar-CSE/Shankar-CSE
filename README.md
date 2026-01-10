@@ -1,127 +1,143 @@
+<!-- ========================= HEADER SECTION ========================= -->
+
 <h3 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! Nice to see you.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+  <br />
+  Hey! Nice to see you 👋 <!-- CHANGED: Added waving hand for friendliness -->
 </h3>
 
 <p align="center"> 
  ✨<br>
- <i>The road to wisdom? Well, it's plain and simple to express:<br>
-  Err and err and err again—but less and less and less.</i><br>🖥️
+ <i>
+   The road to wisdom? Well, it's plain and simple to express:<br>
+   Err and err and err again — but less and less and less.
+ </i><br>🖥️
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+<!-- CHANGED: Cleaner divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<p>Welcome to my page!<br>
-I'm Shankar, Fullstack developer from 
-<img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> 
-<b>Tamil Nadu, India</b>,  
-currently studying <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="20"/> <b>BE CSE</b>.
+<!-- ========================= INTRO SECTION ========================= -->
+
+<div align="center">
+
+<h2>
+  I'm <b>Shankar</b>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643516666/27100/spiderman.png?1643516666" width="35" />
+</h2>
+
+<!-- CHANGED: Improved wording & spacing -->
+<p>
+  🚀 Full-Stack Developer from 
+  <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <br>
+  🎓 Currently pursuing <b>BE / CSE</b>
+  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="18"/>
 </p>
 
-<p align="center">
-  <img alt="followers" src="https://img.shields.io/github/followers/shankar-cse?label=Follow&style=social"/>
-  <img src="https://komarev.com/ghpvc/?username=shankar-cse&label=Profile%20Views&color=blue&style=flat" alt="Profile views"/>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
+<!-- CHANGED: Centered animation for visual balance -->
+<img src="https://github.com/AdityaKumar28/AdityaKumar28/blob/master/animation.gif?raw=true" width="480"/>
 
-<p align="center">
-  <img src="https://github.com/AdityaKumar28/AdityaKumar28/blob/master/animation.gif?raw=true" width="500" />
-</p>
+</div>
 
-
+<!-- ========================= TECH STACK ========================= -->
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/> Things I Code With
 
-
-
+<!-- CHANGED: Grouped & centered badges -->
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
-  <img alt="Github Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-F76935?style=flat-square&logo=postman&logoColor=white"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img alt="npm" src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img alt="Brave browser" src="https://img.shields.io/badge/Brave-B542B?style=flat-square&logo=brave&logoColor=white"/>
-  <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853d?style=flat-square&logo=node.js&logoColor=white"/>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="VScode" src="https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-47A248?style=flat-square&logo=androidstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Docker-46a2f1?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Android_Studio-47A248?style=for-the-badge&logo=androidstudio"/>
+<img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman"/>
+
 </p>
 
+<!-- ========================= TYPING ANIMATION ========================= -->
 
-
+<!-- CHANGED: Slightly cleaner font & color -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Prop+Single&weight=500&pause=2000&color=F76533&center=true&vCenter=true&width=500&lines=Quick+thoughts+shape+fresh+ideas;Brave+steps+build+bigger+dreams;A+coder+who+learns+fast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2000&color=F76533&center=true&vCenter=true&width=520&lines=Quick+thoughts+shape+fresh+ideas;Brave+steps+build+bigger+dreams;A+developer+who+learns+fast" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+<!-- ========================= GITHUB STATS ========================= -->
 
-### ⚡ Recent GitHub Activity
+### ⚡ GitHub Activity & Stats
+
 <details>
-  <summary><b>Click to expand</b></summary>
+  <summary><b>📈 Contribution Graph</b></summary>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankar-cse&custom_title=Shankar's%20Contribution%20Graph&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankar-cse&theme=react-dark"/>
 </details>
 
-### ⚡ GitHub Trophy
 <details>
-  <summary><b>Click to expand</b></summary>
+  <summary><b>🏆 GitHub Trophies</b></summary>
   <br/>
   <img src="https://nirzak-trophies.vercel.app/?username=shankar-cse&theme=algolia"/>
 </details>
 
-### ⚡ Current Streak
 <details>
-  <summary><b>Click to expand</b></summary>
+  <summary><b>🔥 Current Streak</b></summary>
   <br/>
-  <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shankar-cse&theme=github_dark"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shankar-cse&theme=github_dark"/>
 </details>
 
-### ⚡ Languages Used
 <details>
-  <summary><b>Click to expand</b></summary>
+  <summary><b>💻 Languages Used</b></summary>
   <br/>
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&langs_count=8&hide_border=true&theme=dark"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&theme=dark"/>
 </details>
 
-### ⚡ GitHub Stats
 <details>
-  <summary><b>Click to expand</b></summary>
+  <summary><b>📊 Overall GitHub Stats</b></summary>
   <br/>
-  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia"/>
 </details>
 
-
+<!-- ========================= EXTRA VISUALS ========================= -->
 
 <p align="center">
- <img src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" width="500"/>
+  <img src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" width="480"/>
 </p>
 
-<img align="right" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" height="160px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+<!-- ========================= SPOTIFY ========================= -->
+
+<!-- CHANGED: Keeps personality touch -->
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
+<!-- ========================= CONNECT ========================= -->
 
-
-<h3 align="center">Connect With Me</h3>
+<h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png"/></a>
-  <a href="mailto:shankar.l5252@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/></a>
-  <a href="https://github.com/shankar-cse"><img src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>
-  <a href="https://linkedin.com/in/shankarl5252"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
-  <a href="https://instagram.com/shankar_l5252"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png"/></a>
+  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/web.png"/></a>
+  <a href="mailto:shankar.l5252@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail.png"/></a>
+  <a href="https://github.com/shankar-cse"><img src="https://img.icons8.com/bubbles/50/github.png"/></a>
+  <a href="https://linkedin.com/in/shankarl5252"><img src="https://img.icons8.com/bubbles/50/linkedin.png"/></a>
+  <a href="https://instagram.com/shankar_l5252"><img src="https://img.icons8.com/bubbles/50/instagram.png"/></a>
 </p>
+
+<!-- ========================= FOOTER ========================= -->
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/master/bottom_header.svg"/>
