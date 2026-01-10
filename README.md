@@ -85,7 +85,7 @@ currently studying <img src="https://cdn-icons-png.flaticon.com/128/16531/165318
 <details>
   <summary><b>Click to expand</b></summary>
   <br/>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shankar-cse&theme=radical&hide_border=true&background=0D1117"/>
+  <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shankar-cse&theme=github_dark"/>
 </details>
 
 ### ⚡ Languages Used
