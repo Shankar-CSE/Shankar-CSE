@@ -1,38 +1,34 @@
 <!-- ========================= HEADER SECTION ========================= -->
+<div align="center">
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="70"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=50000&center=true&vCenter=true&width=900&lines=Hey!+Nice+to+see+you+👋" />
+</div>
 
-<h3 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  <br />
-  Hey! Nice to see you 👋 <!-- CHANGED: Added waving hand for friendliness -->
-</h3>
-
-<p align="center"> 
+<h3 align="center"> 
  ✨<br>
  <i>
    The road to wisdom? Well, it's plain and simple to express:<br>
    Err and err and err again — but less and less and less.
  </i><br>🖥️
-</p>
+</h3>
 
 <!-- CHANGED: Cleaner divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ========================= INTRO SECTION ========================= -->
-
 <div align="center">
 
-<h2>
-  I'm <b>Shankar</b>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643516666/27100/spiderman.png?1643516666" width="35" />
-</h2>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Yellowtail&size=48&pause=5000&color=E60000&background=FFFFFF00&center=true&vCenter=true&width=300&lines=I'm+Shankar" alt="Typing SVG" /></a>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643508775/36538/jerry_vibe.gif?1643508775" width="50" />
+ 
 
 <!-- CHANGED: Improved wording & spacing -->
-<p>
-  🚀 Full-Stack Developer from 
-  <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="13"/> <br>
+<h3>
+  🚀 Full-Stack Developer from India
+  <img src="https://cdn-icons-png.flaticon.com/128/9906/9906480.png" width="25"/> <br>
   🎓 Currently pursuing <b>BE / CSE</b>
-  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="18"/>
-</p>
+  <img src="https://cdn-icons-png.flaticon.com/128/16531/16531823.png" width="30"/>
+</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -41,11 +37,29 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ========================= CONNECT ========================= -->
+
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tenor+Sans&size=40&pause=50000&color=0223E6&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Let’s+network" alt="Typing SVG" /></a><br />
+  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/web.png"/></a>
+  <a href="mailto:shankar.l5252@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail.png"/></a>
+  <a href="https://github.com/shankar-cse"><img src="https://img.icons8.com/bubbles/50/github.png"/></a>
+  <a href="https://linkedin.com/in/shankarl5252"><img src="https://img.icons8.com/bubbles/50/linkedin.png"/></a>
+  <a href="https://instagram.com/shankar_l5252"><img src="https://img.icons8.com/bubbles/50/instagram.png"/></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <!-- ========================= TECH STACK ========================= -->
-
-## <img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="30"/> Things I Code With
-
-<!-- CHANGED: Grouped & centered badges -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&pause=50000&color=E66437&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Things+I+Code+With" alt="Typing SVG" /></a>
+<img src="https://emojis.slackmojis.com/emojis/images/1709821422/90185/cool-doge.gif?1709821422" width="50"/>
+</div>
+  <!-- CHANGED: Grouped & centered badges -->
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -72,51 +86,42 @@
 
 <!-- ========================= TYPING ANIMATION ========================= -->
 
-<!-- CHANGED: Slightly cleaner font & color -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=2000&color=F76533&center=true&vCenter=true&width=520&lines=Quick+thoughts+shape+fresh+ideas;Brave+steps+build+bigger+dreams;A+developer+who+learns+fast" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ========================= GITHUB STATS ========================= -->
 
 ### ⚡ GitHub Activity & Stats
-
-<details>
+<div>
+<details align="center">
   <summary><b>📈 Contribution Graph</b></summary>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shankar-cse&theme=react-dark"/>
 </details>
 
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br/>
-  <img src="https://nirzak-trophies.vercel.app/?username=shankar-cse&theme=algolia"/>
-</details>
-
-<details>
+<details align="center">
   <summary><b>🔥 Current Streak</b></summary>
   <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shankar-cse&theme=github_dark"/>
+  <img width="1000px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shankar-cse&theme=github_dark"/>
 </details>
 
-<details>
-  <summary><b>💻 Languages Used</b></summary>
+<details align="center">
+  <summary><b>🏆 GitHub Trophies</b></summary>
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shankar-cse&layout=compact&theme=dark"/>
+  <img width="1000px" height="800px" src="https://nirzak-trophies.vercel.app/?username=shankar-cse&theme=algolia"/>
 </details>
 
-<details>
+<details align="center">
   <summary><b>📊 Overall GitHub Stats</b></summary>
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia"/>
+  <img width="1000px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shankar-cse&show_icons=true&theme=algolia"/>
 </details>
-
+</div>
 <!-- ========================= EXTRA VISUALS ========================= -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <p align="center">
-  <img src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" width="480"/>
+  <img width="1000px" src="https://github.com/aryan-upa/aryan-upa/blob/4dbde7f93d4141d96e39855e84ef92b7afbec026/uploads/code_20221226111647_via_10015_io.jpg" width="480"/>
 </p>
 
 <img align="right" height="160px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -126,17 +131,7 @@
 <!-- CHANGED: Keeps personality touch -->
 [![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
 
-<!-- ========================= CONNECT ========================= -->
 
-<h3 align="center">🤝 Connect With Me</h3>
-
-<p align="center">
-  <a href="https://shankar-dev.vercel.app/"><img src="https://img.icons8.com/bubbles/50/web.png"/></a>
-  <a href="mailto:shankar.l5252@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail.png"/></a>
-  <a href="https://github.com/shankar-cse"><img src="https://img.icons8.com/bubbles/50/github.png"/></a>
-  <a href="https://linkedin.com/in/shankarl5252"><img src="https://img.icons8.com/bubbles/50/linkedin.png"/></a>
-  <a href="https://instagram.com/shankar_l5252"><img src="https://img.icons8.com/bubbles/50/instagram.png"/></a>
-</p>
 
 <!-- ========================= FOOTER ========================= -->
 
