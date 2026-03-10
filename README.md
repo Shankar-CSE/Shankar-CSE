@@ -116,7 +116,7 @@
 <details align="center">
   <summary><b>🏆 GitHub Trophies</b></summary>
   <br/>
-  <img width="1000px" height="800px" src="https://nirzak-trophies.vercel.app/?username=shankar-cse&theme=algolia"/>
+  <img width="1000px" height="800px" src="https://github-profile-trophy-kannan.vercel.app/?username=shankar-cse&theme=algolia"/>
 </details>
 </td>
 </tr>
